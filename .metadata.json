@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bnviewer",
+    "oncran": true
+  },
+  {
+    "package": "dbnlearn",
+    "oncran": true
+  }
+]

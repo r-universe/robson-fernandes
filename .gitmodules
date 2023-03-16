@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bnviewer"]
+	path = bnviewer
+	url = https://github.com/robson-fernandes/bnviewer
+	shallow = true
+	registered = true
+[submodule "dbnlearn"]
+	path = dbnlearn
+	url = https://github.com/robson-fernandes/dbnlearn
+	shallow = true
+	registered = true
